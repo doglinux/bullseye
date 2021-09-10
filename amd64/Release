@@ -1,0 +1,29 @@
+Origin: Debian
+Label: DebianDog
+Suite: testing
+Version: 1.0
+Codename: bullseye
+Architectures: amd64
+Components: main
+Description: DebianDog repository
+Date: Fri, 10 Sep 2021 19:37:27 +0000
+MD5Sum:
+ 68bbd97ab23ef6069a70bdc3d4d6215b           366750 Packages
+ c2e197580df247e44ba36833b5886ed6           124613 Packages.gz
+ c2b8f4ebec1cd9c4c1e27902e20ef45e              189 Release
+ c2e197580df247e44ba36833b5886ed6           124613 Translation-en.gz
+SHA1:
+ 0e6938cdfe7de1d9849bef11ab0212134a94af88           366750 Packages
+ f072641aeefaf2df18c9749660a3e5579041495e           124613 Packages.gz
+ 3f3563a9fdd7463bacdcaf20a39f18d892b845a4              189 Release
+ f072641aeefaf2df18c9749660a3e5579041495e           124613 Translation-en.gz
+SHA256:
+ 41b0447b07e62557fc344bf841d6dec1a45b5e242682ac3c44bfea82a2a5caf8           366750 Packages
+ c117bde5cb98698c35ff397c7153e5ab205ebb0849da6d4f9466c99150729805           124613 Packages.gz
+ 047b8661e5fb15755dc15aa892bf4bfee99f668a26620d31385678f9f28f95ef              189 Release
+ c117bde5cb98698c35ff397c7153e5ab205ebb0849da6d4f9466c99150729805           124613 Translation-en.gz
+SHA512:
+ 13ff7ffe6c67a1a9ff2a40e4a4bf66f558bfadb81b7bc2fb1f5a385a0c7da34d1d50f7a9ea36dd1889e26b9768c874ec7cccecf1d65deb45af4583bd38b33df6           366750 Packages
+ fd6c0b3f52f851bf91cc49b0be80b76730eaee368eace596ee0526ea0cc9588642de6996ff32c479209fd7bfb800b3153a46108725ba1af22204b0d443a3344e           124613 Packages.gz
+ 97a9daf536f30c48d51ac5a799ff09013180e77eb9397cfd7cdbfcec0622fce30688166d5839deaf39f06817997905ec37df522d08f8a5574117be237753aa24              189 Release
+ fd6c0b3f52f851bf91cc49b0be80b76730eaee368eace596ee0526ea0cc9588642de6996ff32c479209fd7bfb800b3153a46108725ba1af22204b0d443a3344e           124613 Translation-en.gz

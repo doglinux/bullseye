@@ -1,0 +1,43 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: Debian
+Label: DebianDog
+Suite: testing
+Version: 1.0
+Codename: bullseye
+Architectures: i386
+Components: main
+Description: DebianDog repository
+Date: Fri, 10 Sep 2021 19:33:05 +0000
+MD5Sum:
+ 90f1c12a149817bbf4a1306626c46a70           428968 Packages
+ f1147ac82b195b063aba5f3f16cfe91d           146377 Packages.gz
+ 90e30c9669992af4e8c27e195a87f78f              188 Release
+ f1147ac82b195b063aba5f3f16cfe91d           146377 Translation-en.gz
+SHA1:
+ f4ff56f04d809d1cd8947ef0213a6336065c52ca           428968 Packages
+ 277f094a932448d051bc1731b16fced8425b109d           146377 Packages.gz
+ cdd7999189464a64d1240bb9612683ea3a7b5de5              188 Release
+ 277f094a932448d051bc1731b16fced8425b109d           146377 Translation-en.gz
+SHA256:
+ 047b17db03544e642ef5550858bfe37a8d4ecfade9d403a06262902fd549e993           428968 Packages
+ ddd556f169ff4d4533e63f4a8d2921a4fa204c599c0e817615627d849a96f0c9           146377 Packages.gz
+ ce9c3f2f2c1eb6bd4896fdab72bc2090e21c2823b9a2b2ef8cd7eae3da111d1e              188 Release
+ ddd556f169ff4d4533e63f4a8d2921a4fa204c599c0e817615627d849a96f0c9           146377 Translation-en.gz
+SHA512:
+ 7cdc6a32f2c6927eb80d1e65df0847236efd57ebed18fab8784aeb263fefcfce26d27b5282e51491f27a37d89289231de9e6305843673f0410f2ee048fdf015d           428968 Packages
+ ffd537bb23bc9182737b04a3faf82929ce01bf11ba685db5cc5108ff159ba9f223c62c889dd9381304c8702da6cafa530fdbc77f211ddb4de0614c40ead5741b           146377 Packages.gz
+ 93176cccfa9ef9cfe65954f69a2f39f41ef17d2a4b381889029d85f2da08139a2134a145249609708bfa97257ba09826de6335b1c9f29ab9700baf98aab9ad4f              188 Release
+ ffd537bb23bc9182737b04a3faf82929ce01bf11ba685db5cc5108ff159ba9f223c62c889dd9381304c8702da6cafa530fdbc77f211ddb4de0614c40ead5741b           146377 Translation-en.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCAAdFiEEEzvZDupk2V//eP5nrYe8en1zCB0FAmE7svEACgkQrYe8en1z
+CB0aogf/YRqoRXkq+57ZbVvttOtetPe/QatLrhjBGEJ9W3LlQYI7lFDK5AyrO75f
+cRYz+ChHEWz6y4PnuQVIrKD8tqN0Nk4UZxddSKmWtCWH8T/0K2tI882vtsao88Ai
+pJKRhTltBmeJedCEyucxcO8bo9uKcazh3t85xuZ71IiuuHFjdTEGzGdNeYytL6qz
+aUXX+1YdPP0VqwAATKbNwqstikyloYHWulsR/KKvqDTOmak4xpeRPDiWX/MTiES8
+0IxtuX36FNSA3nYiFg5p2iClPiBfz6cM4R/kmVljMv+OoCuM5wdOrhojoJjNItQT
+tKJnU9w6nicG1TwZkfHby+XvpZP0lA==
+=YHLt
+-----END PGP SIGNATURE-----
