@@ -2927,6 +2927,27 @@ Description: Jwm custom setup for Debiandog, includes:
  - jwm-obmenu script for the Jwm window manager. It provides
  a dynamic menu listing of installed applications.
 
+Package: leafpad
+Architecture: amd64
+Version: 0.8.18.1-5
+Priority: optional
+Section: editors
+Maintainer: Paulo Roberto Alves de Oliveira (aka kretcheu) <kretcheu@gmail.com>
+Installed-Size: 454
+Depends: libc6 (>= 2.4), libcairo2 (>= 1.2.4), libglib2.0-0 (>= 2.24.0), libgtk2.0-0 (>= 2.10.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0)
+Suggests: evince-gtk
+Filename: ./leafpad_0.8.18.1-5_amd64.deb
+Size: 90856
+MD5sum: 931da2e2cfe7c9c9d43bc5509d483dbc
+SHA1: 974aee2de0f887ebcd9b4cdc6507b68ae843482f
+SHA256: bff49aa2d41086606dcfaabf3f0f89c28c1f9ca64ea800126c4f988854313773
+SHA512: d40cccf2247d7e419539daff772cb7d95efeccc868fca9295fb4a8dce660090990c7e1e91e8ba6085a130a4764e64b6358fc67d74b2eabfdfce987528119bdc6
+Homepage: http://tarot.freeshell.org/leafpad/
+Description: GTK+ based simple text editor
+ Leafpad is a simple GTK+ based text editor with user interface
+ similar to Notepad. It aims to be lighter than Gedit and KWrite,
+ and to be as useful as them.
+
 Package: libappindicator1
 Architecture: amd64
 Version: 0.4.92-8
