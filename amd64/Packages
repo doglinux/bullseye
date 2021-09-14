@@ -6380,6 +6380,22 @@ SHA256: 0ee512b07e2186fe0d0bcf239e2a200f877532e02b5bb041264ac64bdac5022e
 SHA512: 822f4bdbd0feac718ab9e657f7c253978739489a0c1dbd27bbbf98da00440cbcfdfe554f78bed03055ed7d852d74e484a408fe85796d97cb02cc4a4410c64e1f
 Description: Switch from standard to static repository (from snapshot.debian)
 
+Package: repo-conf
+Architecture: amd64
+Version: 1.0.2
+Priority: optional
+Section: utilities
+Maintainer: fredx181
+Installed-Size: 42
+Depends: apt, yad
+Filename: ./repo-conf_1.0.2_amd64.deb
+Size: 4604
+MD5sum: 1cf0f417af058d35cfc0e7e253de60d0
+SHA1: 43316da645b1300f42f4b3a567b3c7d21aa0e69b
+SHA256: 72977a46be5a5c347f055e5a5a72f86d12840c53fe6bf7eed970d62235872fc4
+SHA512: c97aa63201fddf061c64dcfb678bc701a70fa19d1177927ac4db1a1f8fbf3fc95eae02e8a479dd752e323efa4661130a503c3c0bd3183cd5d0c4d44f0c533284
+Description: Switch from standard to static repository (from snapshot.debian)
+
 Package: resize-save-file
 Architecture: all
 Version: 1.0.0-2
