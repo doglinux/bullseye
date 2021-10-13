@@ -1,0 +1,7 @@
+?package(youtube-viewer):\
+	needs="X11"\
+	section="Applications/Video"\
+	title="GTK YouTube-Viewer"\
+	command="gtk-youtube-viewer"\
+	icon="/usr/share/pixmaps/gtk-youtube-viewer.png"
+

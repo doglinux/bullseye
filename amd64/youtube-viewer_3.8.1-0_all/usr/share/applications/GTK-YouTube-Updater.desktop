@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=GTK-YouTube-Updater
+Icon=/usr/share/pixmaps/youtube.svg
+Comment=Update The GTK Youtube-Viewer-App
+Exec=/usr/bin/gtk-youtube-update
+Terminal=false
+Type=Application
+Categories=AudioVideo;
+GenericName=Youtube

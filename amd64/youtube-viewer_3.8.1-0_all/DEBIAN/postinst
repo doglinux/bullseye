@@ -1,0 +1,11 @@
+#!/bin/sh
+# postinst script for youtube-viewer
+#
+# see: dh_installdeb(1)
+
+set -e
+
+. /usr/share/debconf/confmodule
+update-menus
+
+exit 0
