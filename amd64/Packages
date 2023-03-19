@@ -6170,6 +6170,29 @@ Description: A Gtk3 application for searching and streaming videos from YouTube.
  WWW-PipeViewer - a very easy interface to YouTube.
  Highly recommended: install mpv or vlc mediaplayer
 
+Package: pipe-viewer
+Architecture: all
+Version: 0.4.5
+Priority: optional
+Section: perl
+Maintainer: fredx181
+Installed-Size: 1100
+Depends: perl, libjson-perl, libjson-xs-perl, libdata-dump-perl, libfile-sharedir-perl, libwww-perl, libterm-readline-gnu-perl, mpv | vlc, curl, libgtk3-perl, liblwp-protocol-https-perl, wget, fonts-symbola
+Recommends: youtube-get3
+Suggests: gcap, liblwp-protocol-https-perl, libtext-charwidth-perl, libterm-readkey-perl, libterm-ui-perl
+Conflicts: straw-viewer
+Replaces: youtube-viewer, straw-viewer
+Filename: ./pipe-viewer_0.4.5_all.deb
+Size: 256124
+MD5sum: 4a781415fc72734f56332d055aa4ab9d
+SHA1: 0aa2b9f6847bb4d57f09189af023eee4597f1bf5
+SHA256: a820752e6c7c13f5eb5116fc79c302577acafce51fcfad6230c857a18e188d02
+SHA512: 76b3e95fdca277b1fe2f81f284aaec82a64f78f6c066000143e5360fbcd7c5bad2199019b634bec43ea13a0b8c220a03073d441acba8b92d58d5413803312331
+Homepage: https://github.com/trizen/youtube-viewer
+Description: A Gtk3 application for searching and streaming videos from YouTube.
+ WWW-PipeViewer - a very easy interface to YouTube.
+ Highly recommended: install mpv or vlc mediaplayer
+
 Package: pmirrorget
 Architecture: all
 Version: 0.2
@@ -8437,6 +8460,20 @@ MD5sum: d2069e4e99059fc037f77eebe961da22
 SHA1: 2b7c5b6219bc6c0edb5cf244972fabc60c29cd24
 SHA256: 33d0473c4ddaab510b6174bdb0ad9d49936b78eb9e21c2f204a4f713df62f5f5
 SHA512: 3c0d615ea703bba5d9b639cb0c7f18490201a049f987f99cc833b63743b9d5f1a677216160b7f5f86d231f591d0a88aac38cbfd01bf3b5d0224b4a4fbc77d902
+Description: Makes a WiFi access point, needs iptables for internet
+
+Package: wlanmaker
+Architecture: all
+Version: 2.3
+Priority: extra
+Maintainer: rcrsn51
+Depends: hostapd
+Filename: ./wlanmaker_2.3_all.deb
+Size: 1624
+MD5sum: 3a696262467bf1e6f737983e6fce6d67
+SHA1: 7efcbe591f1f396f00f27b92ced1870eb1968ee7
+SHA256: fee86113aa4a6c11d1a49721f204140acd51ba65f46e0bffa64e26e11f06ad47
+SHA512: 99973a1a9582239940b2fec797685a53c46bdbc5b4e9ca9f98c6728347b02f4d68743553aca455dc40427c99677aee09aee6424eb0e76c53af57b4fdcf24e28b
 Description: Makes a WiFi access point, needs iptables for internet
 
 Package: x11-xserver-utils
