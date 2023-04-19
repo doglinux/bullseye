@@ -9,35 +9,35 @@ Codename: bullseye
 Architectures: amd64
 Components: main
 Description: DebianDog repository
-Date: Sun, 26 Mar 2023 09:02:20 +0000
+Date: Wed, 19 Apr 2023 15:16:12 +0000
 MD5Sum:
- d2b80e2da23fbd2f0f01fd986f10044c           404166 Packages
- cd165b05f4f694790b3110ea2affc0a2           134602 Packages.gz
- ce55523537cc5920f06cd4a8c8da8040              189 Release
- cd165b05f4f694790b3110ea2affc0a2           134602 Translation-en.gz
+ cb6c02c42ab271f8bcf08b146d84694e           405414 Packages
+ 312c3ff238bda1f4e44ebbdabfd44de4           134824 Packages.gz
+ dea788d20226acc9965d9d7416861d5c              189 Release
+ 312c3ff238bda1f4e44ebbdabfd44de4           134824 Translation-en.gz
 SHA1:
- b98575d312196c87366f453f8d5508951e1e8f1c           404166 Packages
- 094bcee6d084194dc353cdc6bd6a8b4fc536dd9c           134602 Packages.gz
- 42954d2fc7e46a6c5fd577d3fa4e8f30af58ca6f              189 Release
- 094bcee6d084194dc353cdc6bd6a8b4fc536dd9c           134602 Translation-en.gz
+ 74711f35702b4f0c7e5f2a3f76dac98a3f85abb1           405414 Packages
+ 13b2d3216faa0bf279e50747ba3284d06bedaadf           134824 Packages.gz
+ db3f66aa88e4e5477eb7eeece6f83fe1e7d30fd1              189 Release
+ 13b2d3216faa0bf279e50747ba3284d06bedaadf           134824 Translation-en.gz
 SHA256:
- 93946a4c64632d55bc97d1a68e4afd39def5f62b47f248c5440d9e3e0d92dd61           404166 Packages
- cb07d0f2e240b4cb7e59260cdb51e75309533bd1f2ef3b59cbc22ea4fa28644d           134602 Packages.gz
- 8eb97ef77d3c3d3b9d8a00105e274056fe018a5166d06ef69da685df4b9631b7              189 Release
- cb07d0f2e240b4cb7e59260cdb51e75309533bd1f2ef3b59cbc22ea4fa28644d           134602 Translation-en.gz
+ fc3ea5d7898053faf8085640769edbb52cdd7195f3eee29aa8f48e091fa24951           405414 Packages
+ cc456a623eb25b5e169eabebf44b42a77fcdd66e72a5bef4c68db0a860c0a58c           134824 Packages.gz
+ b4db2eee973e7d5ed46787ee386c93133eac5f960e885eb84db791abc5a8f50c              189 Release
+ cc456a623eb25b5e169eabebf44b42a77fcdd66e72a5bef4c68db0a860c0a58c           134824 Translation-en.gz
 SHA512:
- ff39223a0e8174beed32ed6d5d6a4f5c4a32bcf09077a57ef712636b8f0ce4ec07277466b891312e24f85fd149ec073a2bc51936df35520fe64ac5e431fc3562           404166 Packages
- dfc748531f7c1adbf6a45b521228c43c02d01c4fa7ea40dd4885bd1c1e7d4ddc276a789b2a7781c88bf56c0831450aa1dd55d5cb866005e4c42232a1121a64b2           134602 Packages.gz
- 0eab73313e8429926eaed4180ebdb08081c9d7a4793e223a06df34ed22a4643f439f6fdcfd42043eee0fbc8675d4f8ab262c155dd915129d60ff1d3675857912              189 Release
- dfc748531f7c1adbf6a45b521228c43c02d01c4fa7ea40dd4885bd1c1e7d4ddc276a789b2a7781c88bf56c0831450aa1dd55d5cb866005e4c42232a1121a64b2           134602 Translation-en.gz
+ 91f8db6c213a0ea9f7503e343a5a875861fc56ba7b2ed3c94f1b516f8a8d037d0b19136e7c80abfa88fbd241ccea2c58dfe7f4e172170c8dae10e7a1674be630           405414 Packages
+ e519cbefc776fb1712dd7bf6fc1aca570c4c77ae5a118ddab0bf4e624881ea3da9a30904f0ac5e59c8d68a56d33b02e191e75037060baad916babbc7dd7a2571           134824 Packages.gz
+ 4f45b6200ffb593c1ddff550eb53cf4b59ae52fafebb0f8d036e2716a96acfd7d75e163989d3d4115c92b4898e07cac58f0ffbea87382c115f6c2812edc62f16              189 Release
+ e519cbefc776fb1712dd7bf6fc1aca570c4c77ae5a118ddab0bf4e624881ea3da9a30904f0ac5e59c8d68a56d33b02e191e75037060baad916babbc7dd7a2571           134824 Translation-en.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQEzBAEBCAAdFiEEEzvZDupk2V//eP5nrYe8en1zCB0FAmQgChwACgkQrYe8en1z
-CB1TowgAi2zD8R8m+IOx3Nh++x/eleYWl6M3w5BWAp4JqWze/NK+QXYdzVAOJ2mo
-4Q4MGKEsS/1bO4xEZbfgmND5X7qkkZMP47lb1f34d0XHS+pCqP45lQCDHX82zN+T
-VQWmEYQQc81q8K2IVG0v4BkVpZtjs8EJPnmw1vZJ32AaPlzZHIO9da7goedhy0Bl
-C3zwKknSu66neE3xwdqxkIxPNaPSadFdGbM83gIU9zYXLNe0KWHg1zufp3KxEh3Y
-WeXWa/PRIMTaA2bU0koveRzckR6sdCHtBbC/WKF2f02+sSBZ4MB5TqZyd+SfBnEq
-yXCuWor35yZzrKbsOAMNf/tM8UAJ8w==
-=vbwS
+iQEzBAEBCAAdFiEEEzvZDupk2V//eP5nrYe8en1zCB0FAmRABbwACgkQrYe8en1z
+CB0kLgf+KtYYWvpMenKm03Rw2jT6f/BMkm9xg9xW+YC/EbCDadHuNdrb7nvdT/Cp
+jylA8SW5dhtrumTSPTOUi6yqV/eacp6hGKfN5LF6joqHC+8nuggcqqookU7FzVnF
+Goxu4MlVDTMIZZvWiVRhLBU9c6Hu6Ok2cubQF97ahJKXr2EKzCU/D4VHjrThJPXm
+MOs0aCLeQkh7+As+LbD8HDlM4M64hwBAh+4eiMIwTRX9OVD6+VwKlcT5e5b+BV4R
+Wv3gc4Jzt4BiknrMRIXHg3+ZaHA9fp7xraKowb+8EII8kDVkWpF+zm1jrKXzC78D
+6BO9ecMeKRU0D6r0rqze7K0sZCRvMA==
+=BokN
 -----END PGP SIGNATURE-----
