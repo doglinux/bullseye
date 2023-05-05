@@ -6,24 +6,24 @@ Codename: bullseye
 Architectures: amd64
 Components: main
 Description: DebianDog repository
-Date: Wed, 19 Apr 2023 15:16:12 +0000
+Date: Fri, 05 May 2023 08:21:49 +0000
 MD5Sum:
- cb6c02c42ab271f8bcf08b146d84694e           405414 Packages
- 312c3ff238bda1f4e44ebbdabfd44de4           134824 Packages.gz
- dea788d20226acc9965d9d7416861d5c              189 Release
- 312c3ff238bda1f4e44ebbdabfd44de4           134824 Translation-en.gz
+ 02bb78471ee552de64b903197080ed9d           406230 Packages
+ d9b4073c09946e96924845e45893f0d3           135044 Packages.gz
+ f595a5cb9634ed20cd6760455d39e695              189 Release
+ d9b4073c09946e96924845e45893f0d3           135044 Translation-en.gz
 SHA1:
- 74711f35702b4f0c7e5f2a3f76dac98a3f85abb1           405414 Packages
- 13b2d3216faa0bf279e50747ba3284d06bedaadf           134824 Packages.gz
- db3f66aa88e4e5477eb7eeece6f83fe1e7d30fd1              189 Release
- 13b2d3216faa0bf279e50747ba3284d06bedaadf           134824 Translation-en.gz
+ 9da37e67940e5313a66fe01ff24f51d52e83c497           406230 Packages
+ d2c50f4eb749a33df35c0612b6bcccfb0a3b326c           135044 Packages.gz
+ 2468e8b72ffe18733d5fa36ce051c7e5d153e24f              189 Release
+ d2c50f4eb749a33df35c0612b6bcccfb0a3b326c           135044 Translation-en.gz
 SHA256:
- fc3ea5d7898053faf8085640769edbb52cdd7195f3eee29aa8f48e091fa24951           405414 Packages
- cc456a623eb25b5e169eabebf44b42a77fcdd66e72a5bef4c68db0a860c0a58c           134824 Packages.gz
- b4db2eee973e7d5ed46787ee386c93133eac5f960e885eb84db791abc5a8f50c              189 Release
- cc456a623eb25b5e169eabebf44b42a77fcdd66e72a5bef4c68db0a860c0a58c           134824 Translation-en.gz
+ f1ab1ef0e7b64786de67ccb3da647c9806c2eee42617a10d3aca0a5176f9956d           406230 Packages
+ fa846f81b12827f09b8aaf836f7c62def8ff01581a48a14fd65b00f55bd8eeef           135044 Packages.gz
+ e5c0cde5705d8abcf4f79f7678210c59d22e5062ed92cc64e349087fc28a46ed              189 Release
+ fa846f81b12827f09b8aaf836f7c62def8ff01581a48a14fd65b00f55bd8eeef           135044 Translation-en.gz
 SHA512:
- 91f8db6c213a0ea9f7503e343a5a875861fc56ba7b2ed3c94f1b516f8a8d037d0b19136e7c80abfa88fbd241ccea2c58dfe7f4e172170c8dae10e7a1674be630           405414 Packages
- e519cbefc776fb1712dd7bf6fc1aca570c4c77ae5a118ddab0bf4e624881ea3da9a30904f0ac5e59c8d68a56d33b02e191e75037060baad916babbc7dd7a2571           134824 Packages.gz
- 4f45b6200ffb593c1ddff550eb53cf4b59ae52fafebb0f8d036e2716a96acfd7d75e163989d3d4115c92b4898e07cac58f0ffbea87382c115f6c2812edc62f16              189 Release
- e519cbefc776fb1712dd7bf6fc1aca570c4c77ae5a118ddab0bf4e624881ea3da9a30904f0ac5e59c8d68a56d33b02e191e75037060baad916babbc7dd7a2571           134824 Translation-en.gz
+ fa8dc26462e8f7f884ab3aac0ca827fdc1fa2e53b07ec7371038bea582495fe72479d96d2b7a8fc31562468c47b5c6ed068a2335afde3a8bf5fdd0952c65b067           406230 Packages
+ fde404994ae6b1748615c68bc9d786bf68140fca74c701c65d6fe88a0d92d223997954f3169bef7057472cec169d14f40590a5a087b873428a57e85dc65f6e7d           135044 Packages.gz
+ cd3b1befc0b5d82766c8da1c74f7a603830d1452b19ba93a7686a9b75e1380952b28fac132dd5f9b794aa2d955b8a2e1298c0879e4213a6c0fa86f0247fdcd6d              189 Release
+ fde404994ae6b1748615c68bc9d786bf68140fca74c701c65d6fe88a0d92d223997954f3169bef7057472cec169d14f40590a5a087b873428a57e85dc65f6e7d           135044 Translation-en.gz
